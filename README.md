@@ -25,11 +25,14 @@
 ## 🏛️ Project Structure
 
 **`core`**:
+
 **`network`**:
+
 **`database`**:
+
 **`ui`**:
 
-* `feature A`
+* `feature`
   - `data`
       - `services`
       - `entity`
@@ -42,3 +45,5 @@
       - `usecase`
   - `presentation`
       - `entity`
+      - `[ClassName]Screen`
+      - `[ClassName]ViewModel`
