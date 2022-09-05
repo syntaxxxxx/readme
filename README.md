@@ -1,6 +1,6 @@
 ## 🛠 Tech Stacks
 
-- Kotlin Language.
+- Kotlin.
 - [Kotlin DSL](https://docs.gradle.org/current/userguide/kotlin_dsl.html).
 - [Jetpack Compose](https://developer.android.com/jetpack/compose).
 - [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html).
