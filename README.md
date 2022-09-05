@@ -12,7 +12,7 @@
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit).
 - [Retrofit Adapters](https://github.com/skydoves/retrofit-adapters).
 - [Moshi](https://github.com/square/moshi).
-- [Dependency Injection => Hilt](https://dagger.dev/hilt/).
+- [Hilt](https://dagger.dev/hilt/).
 - [KSP](https://github.com/google/ksp).
 - [Timber](https://github.com/JakeWharton/timber).
 
