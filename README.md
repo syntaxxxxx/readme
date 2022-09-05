@@ -18,9 +18,10 @@
 - [Timber](https://github.com/JakeWharton/timber).
 
 ## 🏛️ Modular Architecture Design
-![layer](architecture.png)
+![modular](modular.png)
 
 ## 🏛️ Architecture
+![architecture](architecture.png)
 
 ## 🏛️ Project Structure
 
