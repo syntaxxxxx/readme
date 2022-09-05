@@ -18,6 +18,7 @@
 - [Timber](https://github.com/JakeWharton/timber).
 
 ## 🏛️ Modular Architecture Design
+![modules](figures/figure4.png)
 
 ## 🏛️ Architecture
 
