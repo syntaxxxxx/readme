@@ -1,10 +1,9 @@
 ## 🛠 Tech Stacks
 
 - Kotlin.
-- [Kotlin DSL](https://docs.gradle.org/current/userguide/kotlin_dsl.html).
-- [Jetpack Compose](https://developer.android.com/jetpack/compose).
 - [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html).
 - [Flow](https://kotlinlang.org/docs/flow.html).
+- [Kotlin DSL](https://docs.gradle.org/current/userguide/kotlin_dsl.html).
 - Android Jetpack
   - [Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAjwvNaYBhA3EiwACgndguAbK-Q9IVtJx1wkM85Nt-pI5JMCRKTD4O-wPeu-vyLBxFhkB6XESBoClKQQAvD_BwE&gclsrc=aw.ds).
   - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?gclid=CjwKCAjwvNaYBhA3EiwACgndgjUoa6vdlcCNKAF9x1TQVGibh7eKA2BieACmNWUhWw2Sr-Fo37glTRoCH20QAvD_BwE&gclsrc=aw.ds).
@@ -14,8 +13,8 @@
 - [Retrofit Adapters](https://github.com/skydoves/retrofit-adapters).
 - [OkHttp](https://github.com/square/okhttp).
 - [Moshi](https://github.com/square/moshi).
-- [Hilt](https://dagger.dev/hilt/).
 - [KSP](https://github.com/google/ksp).
+- [Hilt](https://dagger.dev/hilt/).
 - [Timber](https://github.com/JakeWharton/timber).
 
 ## 🏛️ Modular Architecture Design
