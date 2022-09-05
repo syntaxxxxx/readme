@@ -4,7 +4,7 @@
 - [Kotlin DSL](https://docs.gradle.org/current/userguide/kotlin_dsl.html).
 - [Jetpack Compose](https://developer.android.com/jetpack/compose).
 - [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html).
-- [Flow](https://kotlinlang.org/docs/coroutines-overview.html](https://kotlinlang.org/docs/flow.html).
+- [Flow](https://kotlinlang.org/docs/flow.html)
 - Android Jetpack
   - [Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAjwvNaYBhA3EiwACgndguAbK-Q9IVtJx1wkM85Nt-pI5JMCRKTD4O-wPeu-vyLBxFhkB6XESBoClKQQAvD_BwE&gclsrc=aw.ds).
   - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?gclid=CjwKCAjwvNaYBhA3EiwACgndgjUoa6vdlcCNKAF9x1TQVGibh7eKA2BieACmNWUhWw2Sr-Fo37glTRoCH20QAvD_BwE&gclsrc=aw.ds).
