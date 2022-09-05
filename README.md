@@ -11,6 +11,7 @@
   - [Room Database](https://developer.android.com/jetpack/androidx/releases/room?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeP5InkhjXrGeyQ6tMQhtSWktfRdwHaOoxRRQ7dAPRhmVzNJ8eAcwO4aAtYdEALw_wcB&gclsrc=aw.ds).
 - [Retrofit](https://github.com/square/retrofit).
 - [Retrofit Adapters](https://github.com/skydoves/retrofit-adapters).
+- [OkHttp](https://github.com/square/okhttp).
 - [Moshi](https://github.com/square/moshi).
 - [Hilt](https://dagger.dev/hilt/).
 - [KSP](https://github.com/google/ksp).
