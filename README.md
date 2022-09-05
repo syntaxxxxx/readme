@@ -18,6 +18,27 @@
 - [KSP](https://github.com/google/ksp).
 - [Timber](https://github.com/JakeWharton/timber).
 
+## 🏛️ Modular Architecture Design
+
 ## 🏛️ Architecture
 
-## Modular Architecture Design
+## 🏛️ Project Structure
+
+**`core`**:
+**`network`**:
+**`database`**:
+**`ui`**:
+
+* `feature A`
+  - `data`
+      - `services`
+      - `entity`
+      - `source`
+        - `remote`
+        - `local`
+  - `domain`
+      - `entity`
+      - `repository`
+      - `usecase`
+  - `presentation`
+      - `entity`
